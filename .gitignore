@@ -1,0 +1,35 @@
+# LaTeX build artefacts
+*.aux
+*.log
+*.toc
+*.out
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+*.dvi
+*.ps
+*.xdv
+*.pdf__.__*
+# Build output directory
+/build/
+/out/
+/_dist/
+/_dist/*
+
+# Editor files
+*~
+*.swp
+.idea/
+
+# Mac, Windows
+.DS_Store
+Thumbs.db
+
+*.pdf
